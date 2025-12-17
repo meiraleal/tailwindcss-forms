@@ -7,7 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-- Nothing yet!
+### Fixed
+
+- Limit attribute rules to input and select elements ([#159](https://github.com/tailwindlabs/tailwindcss-forms/pull/159))
 
 ## [0.5.10] - 2025-01-07
 
